@@ -2,4 +2,8 @@
 while [[ true ]]
 do
     sleep 2
+<<<<<<< HEAD
 done
+=======
+done
+>>>>>>> 129f87795f24453a1a08d7fcb92d25257d772cbc
